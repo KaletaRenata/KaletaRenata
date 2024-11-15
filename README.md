@@ -1,5 +1,5 @@
-<h1 align="center">Hello, I'm Renata. 🤝 </h1>
-<h3 align="center">Currently looking for professional experience in "data analysis" area. </h3>
+<h1 align="center">Hello! 🤝 </h1>
+<h3 align="center"> My name is Renata and I'm currently looking for professional experience in data analysis. </h3>
 
 - 📫 How to reach me **renata.ka302@gmail.com**
 
